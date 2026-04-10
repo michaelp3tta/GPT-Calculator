@@ -19,6 +19,6 @@ BMS:  <br/>
 <br />
 <br />
 Keyboard Array: <br/>
-<img src="blob:https://imgur.com/18c7503b-6b90-4970-9057-444922f16bb5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l41wvkC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
