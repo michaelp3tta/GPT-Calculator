@@ -11,7 +11,7 @@ This project is a handheld ESP32-S3 device with a physical keyboard and 3.2" dis
 
 <p align="center">
 Kicad Schematic: <br/>
-<img src="https://imgur.com/a/LALQIqf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4JZ2xjV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 BMS:  <br/>
