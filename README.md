@@ -3,12 +3,18 @@
 
 
 <h2>Description</h2>
-This project is a handheld ESP32-S3 device with a physical keyboard and 3.2" display that connects to WiFi and chats with Google Gemini. Built from scratch as an embedded C++ learning project.
+This project is a handheld ESP32-S3 device with a physical keyboard and 3.2" display that connects to WiFi and chats with Google Gemini. Built from scratch as an embedded C++ learning project. Includes accelerometer, speaker, display, full keyboard, BMS.
 <br />
 
 
 <h2>Project walk-through:</h2>
 
+
+
+Recent Test: <br/>
+- [Click Here](https://www.youtube.com/shorts/X3Hsa4f_6Ns)
+<br />
+<br />
 <p align="center">
 Kicad Schematic: <br/>
 <img src="https://i.imgur.com/4JZ2xjV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -20,5 +26,13 @@ BMS:  <br/>
 <br />
 Keyboard Array: <br/>
 <img src="https://i.imgur.com/l41wvkC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+PCB design: <br/>
+<img src="https://i.imgur.com/7qsxQtk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Testing on breadboard: <br/>
+<img src="https://i.imgur.com/yAmGgZP.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
